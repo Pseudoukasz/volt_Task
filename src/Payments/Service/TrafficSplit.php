@@ -2,9 +2,6 @@
 
 namespace App\Payments\Service;
 
-use App\Payments\Gateway\Gateway2;
-use App\Payments\Gateway\Gateway3;
-use App\Payments\Gateway\Gateway1;
 use App\Payments\Model\Payment;
 
 class TrafficSplit
